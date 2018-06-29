@@ -1,4 +1,7 @@
-# hello-world
-Github guide exercise
+# Hello World
 
-This repository exists as a result of following the github starter guide, at: https://guides.github.com/activities/hello-world/
+The purpose of this repository was to practice using Git Version Control on Github. The tutorial can be found at:
+
+```
+https://guides.github.com/activities/hello-world/
+```
